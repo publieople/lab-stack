@@ -125,7 +125,7 @@ graph LR
 
 #### 效率工具链
 
-- 文本编辑器（VS Code）
+- 文本编辑器（ [VS Code](.\VSCode\VS_Code高效使用指南.md) ）
 - 笔记软件（Notion/语雀）
 
 ### 3. 编程基础入门
